@@ -1,0 +1,38 @@
+.heading {
+    width: 100%;
+    text-align: center;
+    }
+    .botton{
+    float: right;
+    border: 1px solid white;
+    }
+    .heading h3{
+        display: inline;
+    }
+}
+    #start,#status{
+        font-size: 22px;
+    }
+    
+    .footer{
+        width: 100%;
+        font-size: 20px;
+        color: black;
+        text-align: center;
+        background-color:white;
+        bottom: 0;
+        position: fixed;
+    }
+    .instruction_image{
+        display: inline-block;
+        width: 30%;
+    }
+    h4{
+        background-color: white;
+        line-height: 2;
+        margin: 0px;
+    }
+    .modal-dialog{
+        width: 90%;
+    }
+    
